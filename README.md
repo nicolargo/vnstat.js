@@ -34,6 +34,8 @@ Run the node:
 On the console, the URL of the VnStat.js is displayed.
 Use a HTML5 compatible Web browser.
 
+![](http://yfrog.com/kevuvnp)
+
 Informations
 ------------
 
