@@ -34,7 +34,7 @@ Run the node:
 On the console, the URL of the VnStat.js is displayed.
 Use a HTML5 compatible Web browser.
 
-![](http://yfrog.com/kevuvnp)
+![](http://desmond.yfrog.com/Himg734/scaled.php?tn=0&server=734&filename=vuvn.png&xsize=640&ysize=640)
 
 Informations
 ------------
