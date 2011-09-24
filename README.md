@@ -9,14 +9,17 @@ Installation
 ------------
 
 1) Install the VnStat and VnStati software.
+
 Exemple on Debian Squeeze (using root console):
+
 	$ apt-get install vnstat vnstati
 	$ vnstat -u -i eth0 --nick "LAN0"
 	$ /etc/init.d/vnstat start
 
-2) Install the Node.js framework following https://github.com/joyent/node/wiki/Installation
+2) Install the Node.js framework following [[https://github.com/joyent/node/wiki/Installation]]
 
 3) Download the VnStat.js node
+
 	$ cd ~
 	$ git clone git://github.com/nicolargo/vnstat.js.git
 
@@ -24,6 +27,7 @@ Run the VnStat.js node
 ----------------------
 
 Run the node:
+
 	$ cd ~/vnstat.js
 	$ node ./vnstat.js
 
