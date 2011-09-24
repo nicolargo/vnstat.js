@@ -83,6 +83,10 @@ footer {
 	padding: 10px;
 }
 
+footer a, footera:visited {
+	color: #666666;
+}
+
 header li { 
 	display: inline;
 	list-style: none;
