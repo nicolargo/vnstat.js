@@ -16,7 +16,7 @@ Exemple on Debian Squeeze (using root console):
 	$ vnstat -u -i eth0 --nick "LAN0"
 	$ /etc/init.d/vnstat start
 
-2) Install the Node.js framework following [[https://github.com/joyent/node/wiki/Installation]]
+2) Install the Node.js framework following https://github.com/joyent/node/wiki/Installation
 
 3) Download the VnStat.js node
 
@@ -41,6 +41,7 @@ By default, the node listen on the TCP port 1337, do not forget to open your fir
 You can customized the web design by editing the css/style.css file.
 
 VnStat.js use vnstat and vnstati softwares. You can edit the path using the lib/request.js file:
+
 	var cmd_vnstat = '/usr/bin/vnstat';
 	var cmd_vnstati = '/usr/bin/vnstati -c 5';
 
