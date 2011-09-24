@@ -1,5 +1,5 @@
 //
-// Serve VnStat with a Node.js
+// VnStat in a Node.js
 //
 // Nicolas Hennion (aka) Nicolargo
 //

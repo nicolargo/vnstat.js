@@ -5,7 +5,7 @@
  * GPL v3
  */
 
-/* Reset */
+/* Reset the sheet */
 html, body, div, span, applet, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote,
 a, abbr, acronym, address, big, cite, code,
@@ -55,7 +55,9 @@ table {
 	border-spacing: 0;
 }
 
+/*****************/
 /* Let's rock... */
+/*****************/
 
 html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
 
