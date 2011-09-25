@@ -1,0 +1,12 @@
+{
+  "name": "vnstat.js",
+  "description": "A simple Web interface to display statistics extracted from an existing VnStat database",
+  "url" : "http://github.com/nicolargo/vnstat.js",
+  "author": "Nicolas Hennion <contact@nicolargo.com>",
+  "contributors": [],
+  "keywords": ["monitoring", "vnstat", "bitrate", "bandwidth"],
+  "repository": {"type": "git", "url": "git@github.com:nicolargo/vnstat.js.git"},
+  "main": "vnstat.js",
+  "dependencies": [],
+  "version": "0.1.0"
+}
