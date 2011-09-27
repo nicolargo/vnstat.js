@@ -1,6 +1,7 @@
 {
   "name": "vnstat.js",
   "description": "A simple Web interface to display statistics extracted from an existing VnStat database",
+  "homepage" : "http://github.com/nicolargo/vnstat.js",
   "url" : "http://github.com/nicolargo/vnstat.js",
   "author": "Nicolas Hennion <contact@nicolargo.com>",
   "contributors": [],
